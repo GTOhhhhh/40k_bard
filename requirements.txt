@@ -4,3 +4,7 @@ pandas
 tqdm
 lxml
 langchain
+langchain-community
+openai
+chromadb
+tiktoken
