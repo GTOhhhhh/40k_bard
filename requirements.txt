@@ -8,3 +8,8 @@ langchain-community
 openai
 chromadb
 tiktoken
+
+# PG Vector packages
+# langchain_openai
+# langchain_postgres
+# psycopg
