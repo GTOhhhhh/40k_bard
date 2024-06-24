@@ -164,4 +164,4 @@ cython_debug/
 #.idea/
 
 # Ignore secrets.json file
-wh40k_pages/secrets.json
+secrets.json
