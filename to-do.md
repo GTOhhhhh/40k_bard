@@ -1,7 +1,11 @@
 # Warhammer 40,000 Battle Report Story Generator: Feature To-Do List
 
 1. User Input Collection:
-   - [ ] Prompt user for and collect army rosters for both sides
+   - [ ] Parse army rosters from both players and determine:
+     - [ ] battlefield type
+     - [ ] primary mission
+     - [ ] mission rule
+     - [ ] secondary missions
    - [ ] Prompt user for battlefield type
    - [ ] Prompt user for primary mission
    - [ ] Prompt user for mission rule
