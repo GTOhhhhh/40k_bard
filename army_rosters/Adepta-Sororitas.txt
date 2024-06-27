@@ -1,0 +1,86 @@
+++ Army Roster (Imperium - Adepta Sororitas) [1,495pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment Choice: Hallowed Martyrs Detachment
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+Morvenn Vahl [145pts]
+
++ Character +
+
+Dialogus [55pts]: Litanies of Faith
+
+Dialogus [30pts]
+
+Palatine [75pts]: Blade of Saint Ellynor, Plasma pistol
+
+Palatine [50pts]: Plasma pistol
+
++ Battleline +
+
+Battle Sisters Squad [100pts]
+. 6x Battle Sister: 6x Bolt Pistol, 6x Boltgun, 6x Close combat weapon
+. Battle Sister w/ Simulacrum Imperialus
+. Battle Sister w/ Special or Heavy Weapon: Multi-melta
+. Battle Sister w/ Special Weapon: Ministorum flamer
+. Sister Superior: Combi-weapon, Power weapon
+
+Battle Sisters Squad [100pts]
+. 6x Battle Sister: 6x Bolt Pistol, 6x Boltgun, 6x Close combat weapon
+. Battle Sister w/ Simulacrum Imperialus
+. Battle Sister w/ Special or Heavy Weapon: Multi-melta
+. Battle Sister w/ Special Weapon: Ministorum flamer
+. Sister Superior: Combi-weapon, Power weapon
+
++ Infantry +
+
+Celestian Sacresants [60pts]
+. 4x Celestian Sacresant (Anointed Halberd): 4x Anointed Halberd, 4x Bolt Pistol
+. Sacresant Superior: Bolt Pistol, Hallowed Mace
+
+Seraphim Squad [70pts]
+. 2x Seraphim: 2x Close combat weapon
+. . 2x 2 Bolt Pistols: 4x Bolt Pistol
+. Seraphim Superior
+. . 2 Bolt Pistols
+. Seraphim with Special Weapons
+. . 2x Ministorum Hand Flamers
+. Seraphim with Special Weapons
+. . 2x Ministorum Hand Flamers
+
++ Vehicle +
+
+Castigator [140pts]: Castigator battle cannon, Hunter-Killer Missile, Storm bolter
+
+Castigator [140pts]: Castigator battle cannon, Hunter-Killer Missile, Storm bolter
+
+Paragon Warsuits [170pts]
+. Paragon Superior: Multi-melta, Paragon Grenade Launchers, Paragon War Mace
+. Paragon Warsuit: Multi-melta, Paragon Grenade Launchers, Paragon War Mace
+. Paragon Warsuit: Multi-melta, Paragon Grenade Launchers, Paragon War Blade
+
+Penitent Engines [55pts]
+. Penitent Engine: Twin Penitent Buzz-Blades
+
+Penitent Engines [55pts]
+. Penitent Engine: Twin Penitent Buzz-Blades
+
++ Dedicated Transport +
+
+Sororitas Rhino [75pts]
+
++ Allied Units +
+
+Callidus Assassin [100pts]
+
+Eversor Assassin [75pts]
+
+++ Total: [1,495pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

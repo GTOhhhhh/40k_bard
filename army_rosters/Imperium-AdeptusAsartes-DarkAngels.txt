@@ -1,0 +1,56 @@
+++ Army Roster (Imperium - Adeptus Astartes - Dark Angels) [1,975pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Gladius Task Force
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Epic Hero +
+
+Azrael [105pts]
+
+Lion El'Jonson [300pts]
+
++ Character +
+
+Apothecary [50pts]
+
+Lieutenant [95pts]: Fire Discipline
+. Pistol, Master-crafted Bolt Rifle & Melee Weapon: Bolt Pistol, Close Combat Weapon, Master-crafted Bolt Rifle
+
+Lieutenant with Combi-weapon [70pts]
+
+Techmarine [55pts]
+
++ Infantry +
+
+Deathwing Knights [215pts]: Mace of absolution, Watcher in the Dark
+. 4x Deathwing Knight
+. Knight Master: Great Weapon of the Unforgiven
+
+Hellblaster Squad [230pts]
+. 9x Hellblaster: 9x Bolt Pistol, 9x Close Combat Weapon, 9x Plasma Incinerator
+. Hellblaster Sergeant: Plasma Pistol
+
+Sternguard Veteran Squad [180pts]
+. Sternguard Veteran Sergeant: Sternguard Bolt Rifle
+. 7x Sternguard Veteran w/ Bolt Rifle: 7x Close Combat Weapon, 7x Sternguard Bolt Pistol, 7x Sternguard Bolt Rifle
+. Sternguard Veteran w/ Special Weapon: Sternguard Heavy Bolter
+. Sternguard Veteran w/ Special Weapon: Sternguard Heavy Bolter
+
++ Vehicle +
+
+Ballistus Dreadnought [140pts]
+
+Ravenwing Darkshroud [115pts]: Heavy bolter
+
+Redemptor Dreadnought [210pts]: Icarus Rocket Pod, Macro Plasma Incinerator, Onslaught Gatling Cannon, Twin Fragstorm Grenade Launcher
+
+Redemptor Dreadnought [210pts]: Icarus Rocket Pod, Macro Plasma Incinerator, Onslaught Gatling Cannon, Twin Storm Bolter
+
+++ Total: [1,975pts] ++
+
+Created with BattleScribe (https://battlescribe.net)

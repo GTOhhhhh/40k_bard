@@ -1,0 +1,139 @@
+++ Army Roster (Xenos - T'au Empire) [2,000pts] ++
+
++ Configuration +
+
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachment: Mont'ka
+
++ Character +
+
+
+Cadre Fireblade [50pts]
+
+. 2x Gun Drone: 2x Twin pulse carbine
+
+Cadre Fireblade [50pts]
+
+. 2x Gun Drone: 2x Twin pulse carbine
+
+Commander in Enforcer Battlesuit [100pts]: Cyclic ion blaster, Exemplar of the Mont'ka, Marker Drone, 3x Plasma rifle, Shield Drone, Warlord
+
+Kroot Flesh Shaper [55pts]
+
+Kroot War Shaper [60pts]: Dart-bow and tri-blade
+
++ Battleline +
+
+
+Breacher Team [100pts]
+
+. Breacher Fire Warrior Shas'ui
+
+. . Guardian Drone
+. . Gun Drone
+. 9x Breacher Fire Warriors: 9x Close combat weapon, 9x Pulse blaster, 9x Pulse pistol
+
+Breacher Team [100pts]
+
+. Breacher Fire Warrior Shas'ui
+
+. . Guardian Drone
+. . Gun Drone
+. 9x Breacher Fire Warriors: 9x Close combat weapon, 9x Pulse blaster, 9x Pulse pistol
+
++ Infantry +
+
+
+Kroot Carnivores [150pts]
+
+. 2x Kroot Carnivore w/ tanglebomb launcher: 2x Close combat weapon, 2x Tanglebomb launcher
+. 17x Kroot Carnivores: 17x Close combat weapon, 17x Kroot rifle
+. Long-quill: Kroot rifle
+
+Pathfinder Team [90pts]
+
+. Gun Drone
+. Marker Drone
+. Pathfinder Shas'ui: Grav-inhibitor drone, Semi-automatic grenade launcher
+. 6x Pathfinders w/ pulse carbine: 6x Close combat weapon, 6x Pulse carbine, 6x Pulse pistol
+. 3x Pathfinders w/ rail rifle: 3x Close combat weapon, 3x Pulse pistol, 3x Rail rifle
+
+Stealth Battlesuits [60pts]
+
+. 2x Stealth Shas'ui w/ burst cannon: 2x Battlesuit fists, 2x Burst cannon
+. Stealth Shas'vre: Battlesuit support system, Fusion blaster, Marker Drone, Shield Drone
+
+Stealth Battlesuits [60pts]
+
+. 2x Stealth Shas'ui w/ burst cannon: 2x Battlesuit fists, 2x Burst cannon
+. Stealth Shas'vre: Battlesuit support system, Fusion blaster, Marker Drone, Shield Drone
+
++ Beast +
+
+
+Kroot Hounds [40pts]
+
+. 5x Kroot Hounds: 5x Ripping fangs
+
+Kroot Hounds [40pts]
+
+. 5x Kroot Hounds: 5x Ripping fangs
+
++ Vehicle +
+
+
+Broadside Battlesuits [110pts]
+
+. Broadside Shas’vre: Heavy rail rifle, Seeker missile, Twin plasma rifle
+
+. . 2x Missile Drone: 2x Missile pod
+
+Crisis Fireknife Battlesuits [150pts]
+
+. Crisis Fireknife Shas’ui: 2x Plasma rifle
+
+. . Gun Drone
+. . Shield Drone
+. Crisis Fireknife Shas’ui: 2x Plasma rifle
+
+. . Gun Drone
+. . Shield Drone
+. Crisis Fireknife Shas’vre: 2x Plasma rifle
+
+. . Gun Drone
+. . Shield Drone
+
+Ghostkeel Battlesuit [160pts]: Battlesuit support system, Cyclic ion raker, Twin fusion blaster
+
+Ghostkeel Battlesuit [160pts]: Battlesuit support system, Cyclic ion raker, Twin fusion blaster
+
+Hammerhead Gunship [130pts]: Railgun, 2x Seeker missile
+
+. 2 Accelerator burst cannons
+
+Piranha [55pts]
+
+. Piranhas: Piranha fusion blaster, 2x Seeker missile
+
+Piranha [55pts]
+
+. Piranhas: Piranha fusion blaster, 2x Seeker missile
+
+Piranha [55pts]
+
+. Piranhas: Piranha fusion blaster, 2x Seeker missile
+
++ Dedicated Transport +
+
+
+Devilfish [85pts]: 2x Seeker missile
+
+. 2 Twin pulse carbines
+
+Devilfish [85pts]: 2x Seeker missile
+
+. 2 Twin pulse carbines
+
+++ Total: [2,000pts] ++

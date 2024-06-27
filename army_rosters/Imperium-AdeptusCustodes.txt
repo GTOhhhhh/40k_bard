@@ -1,0 +1,58 @@
+++ Army Roster (Imperium - Adeptus Custodes) [2,105pts] ++
+
++ Configuration +
+
+Battle Size: 2. Strike Force (2000 Point limit)
+
+Detachments: Shield Host
+
+Show/Hide Options: Agents of the Imperium are visible, Imperial Knights are visible, Legends are visible, Titans are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
+
++ Character +
+
+Blade Champion [110pts]
+
+Blade Champion [110pts]
+
+Shield-Captain [155pts]: Auric Mantle, Pyrithite Spear & Praesidium shield, Warlord
+
++ Battleline +
+
+Custodian Guard [180pts]
+. 4x Custodian Guard (Guardian Spear): 4x Guardian Spear
+
+Custodian Guard [180pts]
+. 4x Custodian Guard (Guardian Spear): 4x Guardian Spear
+
+Custodian Guard [180pts]
+. 4x Custodian Guard (Guardian Spear): 4x Guardian Spear
+
++ Infantry +
+
+Custodian Wardens [250pts]
+. 4x Custodian Warden (Guardian Spear): 4x Guardian Spear
+. Custodian Warden w/ Vexilla: Guardian Spear
+
+Prosecutors [40pts]
+. 3x Prosecutor: 3x Boltgun, 3x Close combat weapon
+
+Venatari Custodians [200pts]
+. 3x Venatari Custodian (Venatari lance): 3x Venatari lance
+
+Venatari Custodians [200pts]
+. 3x Venatari Custodian (Venatari lance): 3x Venatari lance
+
+Venatari Custodians [200pts]
+. 3x Venatari Custodian (Venatari lance): 3x Venatari lance
+
++ Vehicle +
+
+Caladius Grav-tank [215pts]: Twin arachnus heavy blaze cannon
+
++ Allied Units +
+
+Lord Inquisitor Kyria Draxus [85pts]
+
+++ Total: [2,105pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
